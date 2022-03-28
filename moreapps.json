@@ -2,12 +2,12 @@
 	{
 		"nama_apps" : "Gecko Sounds",
 		"img_url" : "https://drive.google.com/uc?export=view&id=19CdNk-qnV-f50_shUe5KHDLPhGzNj8Be",
-		"apps_url" : ""
+		"apps_url" : "https://test.com"
 	},
 	
 	{
 		"nama_apps" : "Ghost Sounds",
-		"img_url" : "",
-		"apps_url" : ""
+		"img_url" : "https://test.com",
+		"apps_url" : "https://test.com"
 	}
 ]
