@@ -1,14 +1,30 @@
 [
 	{
 		"apps" : "Gecko Sounds",
+		"mode" : "0",
 		"sdk_key" : "RJOGtNPN_M-h0gD7bm-gBgfasLA2nyzCXPXQHSkpDgbdXdeoVEckh_MJho9hVKZQLaUvmKKKExT4R2rtyIEZgs",
-		"banner" : "f1f11cb5ac591ac3",
-		"inter" : "c18cec606e20d37d"
+		"b_lov" : "f1f11cb5ac591ac3",
+		"i_lov" : "c18cec606e20d37d",
+		"app_id" : "",
+		"b_ad" : "",
+		"i_ad" : "",
+		"op_ad" : "",
+		"n_ad" : "",
+		"rw_ad" : ""
+		
+		
 	},
 	{
 		"apps" : "Mosquito Sounds",
+		"mode" : "0",
 		"sdk_key" : "RJOGtNPN_M-h0gD7bm-gBgfasLA2nyzCXPXQHSkpDgbdXdeoVEckh_MJho9hVKZQLaUvmKKKExT4R2rtyIEZgs",
-		"banner" : "",
-		"inter" : ""
+		"b_lov" : "f1f11cb5ac591ac3",
+		"i_lov" : "c18cec606e20d37d",
+		"app_id" : "",
+		"b_ad" : "",
+		"i_ad" : "",
+		"op_ad" : "",
+		"n_ad" : "",
+		"rw_ad" : ""
 	}
 ]
