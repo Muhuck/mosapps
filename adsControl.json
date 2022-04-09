@@ -1,16 +1,16 @@
 [
 	{
 		"apps" : "Gecko Sounds",
-		"mode" : "0",
+		"mode" : "1",
 		"sdk_key" : "RJOGtNPN_M-h0gD7bm-gBgfasLA2nyzCXPXQHSkpDgbdXdeoVEckh_MJho9hVKZQLaUvmKKKExT4R2rtyIEZgs",
 		"b_lov" : "f1f11cb5ac591ac3",
 		"i_lov" : "c18cec606e20d37d",
-		"app_id" : "",
-		"b_ad" : "",
-		"i_ad" : "",
-		"op_ad" : "",
-		"n_ad" : "",
-		"rw_ad" : ""
+		"app_id" : "c18cec606e20d37d",
+		"b_ad" : "c18cec606e20d37d",
+		"i_ad" : "c18cec606e20d37d",
+		"op_ad" : "c18cec606e20d37d",
+		"n_ad" : "c18cec606e20d37d",
+		"rw_ad" : "c18cec606e20d37d"
 		
 		
 	},
