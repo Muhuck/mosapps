@@ -19,10 +19,10 @@
 	},
 	{
 		"apps" : "Mosquito Sounds",
-		"mode" : "0",
+		"mode" : "2",
 		"sdk_key" : "RJOGtNPN_M-h0gD7bm-gBgfasLA2nyzCXPXQHSkpDgbdXdeoVEckh_MJho9hVKZQLaUvmKKKExT4R2rtyIEZgs",
-		"b_lov" : "f1f11cb5ac591ac3",
-		"i_lov" : "c18cec606e20d37d",
+		"b_lov" : "e96889e7d370f271",
+		"i_lov" : "f2a8bdb9ae597593",
 		"app_id" : "",
 		"b_ad" : "",
 		"i_ad" : "",
@@ -30,6 +30,6 @@
 		"n_ad" : "",
 		"rw_ad" : "",
 		"loading" : "true",
-		"more" : "true"
+		"more" : "false"
 	}
 ]
